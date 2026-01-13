@@ -1,42 +1,20 @@
-body{
-	background-color:mistyrose;
-}
-img{
-	width:300px;
-}
-ul{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: #333333;
-}
-ul li{
-	float: left;
-}
-ul li a {
-	display: block;
-	color: white;
-	text-align: center;
-	padding: 14px;
-	text-decoration: none;
-}
-img:hover{
-	border:dotted white 5px;
-	width: 325px;
-}
-
-h2 {
-  color: white;
-}
-
-h2 {
-  letter-spacing: 3px;
-}
-h2 {
-  color: white;
-  text-shadow: 1px 1px 2px white, 25px purple, 5px red;
-}
-h2 {
-  font-family: "Lucida Console";
-}
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>page2.html</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+	<center><h2>My Apps</h2></center>
+<body>
+	<ul>
+		<li><a href = "index.html">Home</a></li>
+		<li><a href = "page2.html">My Apps</a></li>
+	</ul>
+	<center>
+		<iframe width ="392" height ="620" style ="border:0px;" src="https://studio.code.org/projects/applab/jbzyWzYRxh7CfJMsUavuq5V_xc8OD1095WInAOtNZ8s/embed">
+		</iframe>
+		<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/Mym-ud-kUINjqn56Ri6IPNrO9yLXmyivyTxfVGr3LKM/embed"></iframe>
+	</center>
+</body>
+</html>
