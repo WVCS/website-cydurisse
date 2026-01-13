@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>page2.html</title>
-<link href="style.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet">
 </head>
 	<center><h2>My Apps</h2></center>
 <body>
@@ -13,7 +13,6 @@
 	</ul>
 	<center>
 		<iframe width ="392" height ="620" style ="border:0px;" src="https://studio.code.org/projects/applab/jbzyWzYRxh7CfJMsUavuq5V_xc8OD1095WInAOtNZ8s/embed">
-		</iframe>
 		<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/Mym-ud-kUINjqn56Ri6IPNrO9yLXmyivyTxfVGr3LKM/embed"></iframe>
 	</center>
 </body>
